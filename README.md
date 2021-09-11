@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Uday Kumar basically known as UdayRocker across all social networking platforms, am 17y.o guy a basic knowledge.
+I am Uday Kumar basically known as UdayRocker across all social networking platforms, am 17y.o guy a basic GitHub knowledge.
                                                     
       •🇮🇳Am from Karnataka India
       •🐼I maintain PEX 
