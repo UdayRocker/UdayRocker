@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/master/HemantSachdeva.svg" alt="Hemant Sachdeva" />
+  <img src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/master/assets/stalker.svg" alt="Hemant Sachdeva" />
 </h1>
 
 ### Hi there 👋
